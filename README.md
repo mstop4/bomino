@@ -23,6 +23,10 @@ Arrange and place the pieces, made up of minos and bombs, as the fall into the w
 
 **[Download for Windows, macOS, and Linux from itch.io](https://quadolorgames.itch.io/bomino)**
 
+## Changelog
+
+The version history of the game can be found here: https://github.com/mstop4/bomino/blob/main/CHANGELOG.md
+
 ## Bug Tracker
 If you have an bugs to report, create a new issue here: https://github.com/mstop4/bomino/issues
 

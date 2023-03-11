@@ -5,8 +5,8 @@
 - Fixed Marathon scoring
   - Spin Minis now award a flat 100 bonus points if there are no filled lines with bombs
   - Spin bonus points are now properly multipled by Back-to-Back bonus if active
-- Fixed high scores not being saved in Marathon and Piece Trial modes (@mstop4)
-- Fixed issues with DAS and ARR (@mstop4)
+- Fixed high scores not being saved in Marathon and Piece Trial modes (*thanks Talon125*)
+- Fixed issues with DAS and ARR (*thanks Xx-Henry-xX*)
   - Added option to enable/disable DAS Cancelling
 - Fixed issues and bugs related to top out conditions
 - Fixed a bug where the minos of rotated pieces were in the wrong locations after the runtime update

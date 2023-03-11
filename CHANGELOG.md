@@ -1,6 +1,6 @@
 # Changelog
 
-## v0.18.0 - 2023-03-12
+## v0.18.0 - 2023-03-11
 
 - Fixed Marathon scoring
   - Spin Minis now award a flat 100 bonus points if there are no filled lines with bombs

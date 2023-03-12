@@ -15,7 +15,7 @@
 - Fixed an issue where piece centers were drawn one frame behind where they were supposed to be
   - This also fixes the issue where the piece center would jump up one cell for one frame when the current active piece crossed cell boundaries while Smooth Falling is on
 - Fixed an issue where Big Bombs overlapping the current piece would disappear when the player blocks out
-- Changed title in Piece Trial options menu from "Piece Attack" to "Piece Trial"
+- Changed title in Piece Trial options menu from "Piece Attack" to "Piece Trial" (*thanks Talon125*)
 
 ## v0.17.2 - 2023-03-06
 

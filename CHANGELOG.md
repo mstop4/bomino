@@ -1,5 +1,10 @@
 # Changelog
 
+## v0.18.1 - 2023-03-12
+
+- Fixed a bug where if a piece was hard dropped during lock delay, the next piece would lock at spawn and end the game with a lock out. (*thanks Rubiktor012*)
+- Fixed issue with macOS version not running due to incorrectly-defined min version (*thanks briand*)
+
 ## v0.18.0 - 2023-03-11
 
 - Fixed Marathon scoring

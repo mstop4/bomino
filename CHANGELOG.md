@@ -20,7 +20,6 @@
 - Fixed minor issues with lock out conditions
 - In-game performance improvements 
 
-
 ## v0.18.1 - 2023-03-12
 
 - Fixed a bug where if a piece was hard dropped during lock delay, the next piece would lock at spawn and end the game with a lock out. (*thanks Rubiktor012*)

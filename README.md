@@ -6,11 +6,11 @@ Arrange and place the pieces, made up of minos and bombs, as the fall into the w
 
 ---
 
-![Marathon](https://raw.githubusercontent.com/mstop4/bomino/main/img/bomino_AQC0ggVY5H.png "Marathon")
+![Screenshot of Marathon mode](https://raw.githubusercontent.com/mstop4/bomino/main/img/marathon2.jpg "Marathon")
 
-![Piece Trial](https://raw.githubusercontent.com/mstop4/bomino/main/img/bomino_TUoyiUbvNy.jpg "Piece Trial")
+![Screenshot of Piece Trial mode](https://raw.githubusercontent.com/mstop4/bomino/main/img/piece-trial-2.jpg "Piece Trial")
 
-![Sprint](https://raw.githubusercontent.com/mstop4/bomino/main/img/bomino_IG4xQ1Tbub.jpg "Sprint")
+![Screenshot of Dig mode](https://raw.githubusercontent.com/mstop4/bomino/main/img/dig-2.jpg "Dig")
 
 ---
 
@@ -18,6 +18,8 @@ Arrange and place the pieces, made up of minos and bombs, as the fall into the w
 - **Marathon** - Clear a set number of minos with increasing gravity and go for a high score.
 - **Piece Trial** - Given a limited number of pieces, how many bonus points can you get from forming big bombs, twists, and large multi-line fills?
 - **Sprint** - Clear a set number of minos as fast as you can.
+- **Dig** - Clear a set number of lines of garbage with a few pieces as possible.
+- **Sprint** - Waves of garbage are periodically added to the well, becoming increasing intense as time passes. How long can you last before topping out?
 
 ## Download
 

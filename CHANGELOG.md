@@ -1,5 +1,26 @@
 # Changelog
 
+## v0.19.0 - 2023-04-05
+
+- Added two new modes: Dig and Survival
+- Next Queue window now scales depending on the length of the queue
+- Adjusted piece preview alignments in Hold and Next Queue windows
+- Added "Hold" and "Next" headings to game UI
+- Adjusted appearance of Ghost Piece
+- Adjusted appearance of frozen lines
+- Added two new music tracks
+- Swapped the backgrounds and default BGMs for Marathon and Sprint
+- "New Best!" text no longer appears if the current score ties the best score in Marathon
+- Fixed a crash that occured in-game when Next Queue is set to 0
+- Fixed a crash that occured when more than 20 lines are filled simulataneously
+- Fixed an issue where frozen lines were not clearing during Game Over sequence
+- Fixed an issue where the Best Time in the Sprint options menu was displayed incorrectly
+- Fixed an issue where hard dropping piece from row 21 or higher would cause it to lock in the wrong position
+- Fixed an issue where a piece swapped from Hold would phase through minos near the spawn area via gravity
+- Fixed minor issues with lock out conditions
+- In-game performance improvements 
+
+
 ## v0.18.1 - 2023-03-12
 
 - Fixed a bug where if a piece was hard dropped during lock delay, the next piece would lock at spawn and end the game with a lock out. (*thanks Rubiktor012*)

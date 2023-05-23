@@ -14,9 +14,9 @@
 - Adjusted appearance of frozen lines
 - Added two new music tracks
 - Swapped the backgrounds and default BGMs for Marathon and Sprint
-- "New Best!" text no longer appears if the current score ties the best score in Marathon
+- "New Best!" text no longer appears if the current score ties with the Best Score in Marathon
 - Fixed a crash that occured in-game when Next Queue is set to 0
-- Fixed a crash that occured when more than 20 lines are filled simulataneously
+- Fixed a crash that occured when more than 20 lines are filled in one move
 - Fixed an issue where frozen lines were not clearing during Game Over sequence
 - Fixed an issue where the Best Time in the Sprint options menu was displayed incorrectly
 - Fixed an issue where hard dropping piece from row 21 or higher would cause it to lock in the wrong position
@@ -40,7 +40,7 @@
 - Fixed issues and bugs related to top out conditions
 - Fixed a bug where the minos of rotated pieces were in the wrong locations after the runtime update
 - Fixed an issue where the level up SFX would play more than once if multiple level ups occurred simultaneously
-- Fixed an issue where the frozen line SFX would play even if frozen line(s) were formed and cleared with the same piece
+- Fixed an issue where the frozen line SFX would play even if frozen line(s) were formed and cleared with the same move
 - Fixed an issue where piece centers were drawn one frame behind where they were supposed to be
   - This also fixes the issue where the piece center would jump up one cell for one frame when the current active piece crossed cell boundaries while Smooth Falling is on
 - Fixed an issue where Big Bombs overlapping the current piece would disappear when the player blocks out

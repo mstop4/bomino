@@ -1,5 +1,9 @@
 # Changelog
 
+## v0.19.1 - (upcoming)
+
+ - Redid explosion drawing code to get rid of unwanted drawing artifacts
+
 ## v0.19.0 - 2023-04-05
 
 - Added two new modes: Dig and Survival

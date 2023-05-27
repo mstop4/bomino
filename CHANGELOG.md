@@ -2,7 +2,10 @@
 
 ## v0.19.1 - (upcoming)
 
- - Redid explosion drawing code to get rid of unwanted drawing artifacts
+- Fixed an issue on macOS and Ubuntu where the game would crash or display the wrong key in the Control Configuration menu when the Quote and Backquote keys were assigned to an action
+- Darkened and flipped background for Survival mode to make UI easier to read
+- Redid explosion drawing code to get rid of unwanted graphical artifacts
+- Refactored game mode configs
 
 ## v0.19.0 - 2023-04-05
 

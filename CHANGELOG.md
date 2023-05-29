@@ -1,9 +1,10 @@
 # Changelog
 
-## v0.20.0 - 2023-05-28
+## v0.20.0 - 2023-05-29
 
 - Fixed an issue on macOS and Ubuntu where the game would crash or display the wrong key in the Control Configuration menu when the Quote and Backquote keys were assigned to an action
-- Fixed Steam Deck gamepad input detection
+- Fixed an issue on Ubuntu where player data wasn't being saved
+- Fixed issue where game could not detect the built-in gamepad on Steam Deck
 - Darkened and flipped background for Survival mode to make UI easier to read
 - Redid explosion drawing code to get rid of unwanted graphical artifacts
 - Made various refactors to the code for better performance

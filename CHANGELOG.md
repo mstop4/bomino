@@ -1,5 +1,31 @@
 # Changelog
 
+## v0.21.0 - 2023-11-27
+
+- Added new mode: Contest
+  - Added new mino types: Hard (needs two explosions to clear) and Fixed (not affected by gravity)
+  - Added one new BGM option
+  - Added one new background
+- Added a "Press Any Button" prompt on the first time the main menu is shown. If a controller button is pressed during this prompt,
+  that controller will become the active controller. If a keyboard key is pressed instead, the game will auto-assign an active controller
+  - Improved auto-assignment of the active controller. Game will try to use the first available connected controller instead of always defaulting to slot 0
+- Added Smooth Shift option. When turned On, horizontal piece movements are animated smoothly. This is indpendent of Smooth Falling
+- Added Restore Defaults option to Control Configuration menu
+- Added Change Controller option in Control Configuration menu. This allows you to change the active controller
+- Added save data backups. Whenever the game autosaves, it keeps the old save files as a backup
+- Fixed bugs that prevented the Show Piece Centers, Screen Shift, and Screen Shake options from working properly
+- Pausing and Quick Restarting can now only be done while a piece is in play. This prevent bugs that cause the game to desync when paused in other states
+- Fixed a bug where lock delay of the current piece would not reset after Restarting
+- After filling in 4 or more lines with a single piece, the next piece will now become a full bomb piece
+- Hold piece window is now hidden if Hold Piece is turned off in the options
+- Special clear and spin messages (e.g. "Quad", "T-Spin") now shift together with the well and the rest of the HUD
+- Fixed a bug that prevented the text "New Best!" from appearing in Marathon and Survival modes
+- Adjusted various UI elements to make them easier to read
+- Bonus piece counter now appears over ghost piece
+- Fixed a bug where the garbage height limit line in Dig Mode would not disappear when lines remaining were approaching 0
+- Rebalanced BGM volumes
+- Made various refactors to the code for better organization
+
 ## v0.20.0 - 2023-05-29
 
 - Fixed an issue on macOS and Ubuntu where the game would crash or display the wrong key in the Control Configuration menu when the Quote and Backquote keys were assigned to an action

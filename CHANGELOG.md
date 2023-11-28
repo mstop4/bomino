@@ -46,8 +46,8 @@
 - Added two new music tracks
 - Swapped the backgrounds and default BGMs for Marathon and Sprint
 - "New Best!" text no longer appears if the current score ties with the Best Score in Marathon
-- Fixed a crash that occured in-game when Next Queue is set to 0
-- Fixed a crash that occured when more than 20 lines are filled in one move
+- Fixed a crash that occurred in-game when Next Queue is set to 0
+- Fixed a crash that occurred when more than 20 lines are filled in one move
 - Fixed an issue where frozen lines were not clearing during Game Over sequence
 - Fixed an issue where the Best Time in the Sprint options menu was displayed incorrectly
 - Fixed an issue where hard dropping piece from row 21 or higher would cause it to lock in the wrong position

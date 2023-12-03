@@ -1,10 +1,10 @@
 # Changelog
 
-## v0.21.1 - (Future release)
+## v0.21.1 - 2023-12-03 - (Current release)
 
 - Fixed a crash that occurred when performing a Spin without line fills while Back-to-Back bonus is active (thanks BlandJar)
 
-## v0.21.0 - 2023-11-27 - (Current release)
+## v0.21.0 - 2023-11-27
 
 - Added new mode: Contest
   - Added new mino types: Hard (needs two explosions to clear) and Fixed (not affected by gravity)

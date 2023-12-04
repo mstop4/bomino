@@ -20,6 +20,7 @@ Arrange and place the pieces, made up of minos and bombs, as the fall into the w
 - **Sprint** - Clear a set number of minos as fast as you can.
 - **Dig** - Clear a set number of lines of garbage with a few pieces as possible.
 - **Sprint** - Waves of garbage are periodically added to the well, becoming increasing intense as time passes. How long can you last before topping out?
+- **Contest** - Completely clear preset layouts of minos as efficiently as possible. Can you clear 40+ increase difficulty stages?
 
 ## Download
 

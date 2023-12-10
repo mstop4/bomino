@@ -24,7 +24,7 @@ Arrange and place the pieces, made up of minos and bombs, as the fall into the w
 
 ## Download
 
-### *Current version:* **0.21.0**
+### *Current version:* **0.21.1**
 
 **[Download for Windows, macOS, and Linux from itch.io](https://quadolorgames.itch.io/bomino)**
 

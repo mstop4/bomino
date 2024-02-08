@@ -1,5 +1,9 @@
 # Changelog
 
+## v0.21.2 (Future Release)
+
+- DAS cancelling is now On by default
+
 ## v0.21.1 - 2023-12-03 - (Current release)
 
 - Fixed a crash that occurred when performing a Spin without line fills while Back-to-Back bonus is active (thanks BlandJar)

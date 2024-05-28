@@ -3,7 +3,7 @@
 ## v0.21.2 - 2024-05-27 - (Current release)
 
 - DAS cancelling is now On by default
-- Fixed issue where regular minos would stay suspended in midair in Dig mode.
+- Fixed issue where regular minos would stay suspended in midair in Dig mode (thanks BlandJar)
 
 ## v0.21.1 - 2023-12-03
 

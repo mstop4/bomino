@@ -1,11 +1,11 @@
 # Changelog
 
-## v0.21.2 (Future Release)
+## v0.21.2 - 2024-05-27 - (Current release)
 
 - DAS cancelling is now On by default
 - Fixed issue where regular minos would stay suspended in midair in Dig mode.
 
-## v0.21.1 - 2023-12-03 - (Current release)
+## v0.21.1 - 2023-12-03
 
 - Fixed a crash that occurred when performing a Spin without line fills while Back-to-Back bonus is active (thanks BlandJar)
 

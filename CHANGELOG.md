@@ -2,10 +2,12 @@
 
 ## v0.21.3 - 2024-05-28 - (Current release)
 
+- Fixed an issue where garbage lines were playing the "Trance Dance" track instead of the proper sound effect when added to the well.
+
 ## v0.21.2 - 2024-05-27
 
 - DAS cancelling is now On by default
-- Fixed issue where regular minos would stay suspended in midair in Dig mode (thanks BlandJar)
+- Fixed an issue where regular minos would stay suspended in midair in Dig mode (thanks BlandJar)
 
 ## v0.21.1 - 2023-12-03
 

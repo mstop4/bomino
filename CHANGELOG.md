@@ -2,7 +2,7 @@
 
 ## v0.21.4 - 2025-04-26 - (Future Release)
 
-- Fixed crash when changing settings in Marathon menu 
+- Fixed crash when changing settings in Marathon menu (Thanks Kilroy_1541).
 
 ## v0.21.3 - 2024-05-28 - (Current release)
 

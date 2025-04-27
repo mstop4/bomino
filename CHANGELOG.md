@@ -1,5 +1,9 @@
 # Changelog
 
+## v0.21.4 - 2025-04-26 - (Future Release)
+
+- Fixed crash when changing settings in Marathon menu 
+
 ## v0.21.3 - 2024-05-28 - (Current release)
 
 - Fixed an issue where garbage lines were playing the "Trance Dance" track instead of the proper sound effect when added to the well.

@@ -1,7 +1,8 @@
 # Changelog
 
-## v0.21.4 - 2025-04-26 - (Future Release)
+## v0.21.4 - 2025-04-?? - (Future Release)
 
+- MacOS not longer currently not supported due to lack of compatible equipment to build it.
 - Fixed crash when changing settings in Marathon menu (Thanks Kilroy_1541).
 - Fixed bug where a newly spawned piece would sometimes lock in mid-air if the stack was close to the top and initial hold or initial rotation was used (Thanks Kibi_Byte).
 

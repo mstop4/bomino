@@ -1,12 +1,12 @@
 # Changelog
 
-## v0.21.4 - 2025-04-?? - (Future Release)
+## v0.21.4 - 2025-04-28 - (Current release)
 
 - MacOS not longer currently not supported due to lack of compatible equipment to build it.
 - Fixed crash when changing settings in Marathon menu (Thanks Kilroy_1541).
 - Fixed bug where a newly spawned piece would sometimes lock in mid-air if the stack was close to the top and initial hold or initial rotation was used (Thanks Kibi_Byte).
 
-## v0.21.3 - 2024-05-28 - (Current release)
+## v0.21.3 - 2024-05-28
 
 - Fixed an issue where garbage lines were playing the "Trance Dance" track instead of the proper sound effect when added to the well.
 

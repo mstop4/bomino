@@ -3,7 +3,7 @@
 ## v0.22.1 - 2025-04-29 - (Current release)
 
 - MacOS not longer currently not supported due to lack of compatible equipment to build it.
-- Fixed bug where pieces would continue to spawn and drop after the completion of "1500 Minos" and "2000 Minos" modes, causing a "You Win" screen loop, then a "Game Over" screen loop after the game tops out.  
+- Fixed bug where pieces would continue to spawn and drop after the completion of Marathon "1500 Minos" and "2000 Minos" modes, causing a "You Win" screen loop, then a "Game Over" screen loop after the game tops out.  
 - Fixed crash when changing settings in Marathon menu (Thanks Kilroy_1541).
 - Fixed bug where a newly spawned piece would sometimes lock in mid-air if the stack was close to the top and initial hold or initial rotation was used (Thanks Kibi_Byte).
 
